@@ -1,0 +1,8 @@
+{
+  "id": 123,
+  "title": "Hello world",
+  "items": [
+    { "name": "A", "value": 10 },
+    { "name": "B", "value": 20 }
+  ]
+}
